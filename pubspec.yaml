@@ -1,0 +1,50 @@
+name: test_drive
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+
+
+dependencies:
+  flutter:
+   sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  device_preview: ^1.1.0
+  flutter_switch: ^0.3.2
+  file_picker: ^8.0.0+1
+  video_player: ^2.9.1
+  assets_audio_player: ^3.1.1
+  http: ^1.2.1
+  flutter_slidable: ^3.1.0
+  cloud_firestore: ^4.17.3
+  firebase_core: ^2.31.0
+  firebase_auth: ^4.19.5
+  device_preview_minus: ^1.0.4
+  flutter_tts: ^4.0.2
+  flutter_svg: ^2.0.10+1
+  dio: ^5.4.3+1
+  flutter_secure_storage: ^9.2.2
+  image_picker: ^1.1.2
+  flutter_sound: ^9.2.13
+  permission_handler: ^11.3.1
+  image: ^4.2.0
+  video_compress: ^3.1.2
+  just_audio: ^0.9.38
+  flutter_layout_grid: ^2.0.7
+  firebase_storage: ^11.7.7
+
+
+
+dev_dependencies:
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+
+
